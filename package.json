@@ -1,0 +1,7 @@
+{
+  "name": "vendure-bring-plugin",
+  "version": "1.0.0",
+  "main": "/dist/index.js",
+  "author": "Marensius Bae Pettersen",
+  "license": "MIT"
+}
